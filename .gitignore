@@ -1,5 +1,6 @@
 # Virtual environment
 .venv/
+.myenv
 venv/
 env/
 
@@ -36,4 +37,4 @@ __init__.py
 patients.json
 .ipynb/
 pyndanctic_demo.py
-
+main.py
